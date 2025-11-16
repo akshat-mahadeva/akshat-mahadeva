@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Akshat
 
-<!--
-**akshat-mahadeva/akshat-mahadeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=32A9FF&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Builder;I+ship+fast+and+clean+products)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Building **AI Agents** (email + calendar automation)
+- Next.js • TypeScript • tRPC • Prisma
+
+---
+
+### 🛠 Tech I Use
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,prisma,supabase,firebase,docker,vercel&perline=5)
+
+---
+
+### 📈 GitHub Vibes
+![GitHub Streak](https://streak-stats.demolab.com?user=akshat&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat&show_icons=true&theme=transparent)
+
+---
+
+### 🎯 Quick Intro
+I build things that solve real problems — fast.  
+AI + clean design + minimal complexity.
+
+---
+
+### 📬 Connect
+[LinkedIn](#) • [Email](mailto:#)
